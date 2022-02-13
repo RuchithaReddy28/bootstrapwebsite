@@ -264,7 +264,10 @@ the BPR&D so that problems relating to prisons and implementation of deemed pris
 ## OUTPUT:
 
 ### Home Page:
-
-
+![Output](https://github.com/RuchithaReddy28/bootstrapwebsite/blob/main/r1.PNG?raw=true)
+### About Us :
+![Output](https://github.com/RuchithaReddy28/bootstrapwebsite/blob/main/r2.PNG?raw=true)
+### Contact Us:
+![Output](https://github.com/RuchithaReddy28/bootstrapwebsite/blob/main/r3.PNG?raw=true)
 ## Result:
-
+The codes are successfully excuted to create a webpage by using bootstrap.
